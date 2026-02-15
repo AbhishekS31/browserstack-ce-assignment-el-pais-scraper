@@ -45,7 +45,6 @@ The solution emphasizes modularity, fault tolerance, and separation of concerns,
 BrowserStack-Assignment/
 ├── main.py                 # Entry point for local execution
 ├── requirements.txt        # Python dependencies
-├── pyproject.toml          # Pytest configuration
 ├── .env                    # Environment variables (not committed)
 ├── .gitignore              # Git exclusions
 │
@@ -73,6 +72,7 @@ BrowserStack-Assignment/
 │   └── test_browserstack.py  # BrowserStack parallel tests
 │
 └── output/                 # Generated outputs (images, JSON results)
+└── README.md
 ```
 
 ## Assignment Requirements Covered
